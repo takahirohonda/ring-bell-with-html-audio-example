@@ -32,7 +32,7 @@
     "@types/jquery": "^3.3.31",
     "babel-plugin-transform-es2015-computed-properties": "^6.24.1",
     "bootstrap": "^4.4.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.1",
     "browserify": "^16.5.0",
     "fetch-mock": "^9.4.0",
     "gulp": "^4.0.2",
